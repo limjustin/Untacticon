@@ -17,7 +17,7 @@
 - [limjustin(임재영)](https://github.com/limjustin)
 - [yoonho0922(안윤호)](https://github.com/yoonho0922)
 - [goodaehong(구대홍)](https://github.com/goodaehong)
-- [DADA201910841(최다경)](https://github.com/DADA201910841)
+- [DaGyeongChoi(최다경)](https://github.com/DaGyeongChoi)
 
 -----
 
