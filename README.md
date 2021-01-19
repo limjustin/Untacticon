@@ -28,6 +28,7 @@
 - 제 2회 SM 경진대회 AI 부문 최우수상 수상
 
 - **관련 인터뷰**
+
   - [상명대학교 홈페이지 상명피플](https://www.smu.ac.kr/webzine/sm-people.do?mode=view&articleNo=714722)
   
   - [상명대학교 서울캠퍼스 네이버 블로그](https://blog.naver.com/sangmyung-univ/222212482849)
