@@ -34,6 +34,8 @@
   - [상명대학교 서울캠퍼스 네이버 블로그](https://blog.naver.com/sangmyung-univ/222212482849)
   
   - [상명대학교 서울캠퍼스 인스타그램](https://www.instagram.com/p/CKN1vZXBMwC/)
+  
+  - [핀포인트뉴스](https://cnews.pinpointnews.co.kr/view.php?ud=202101211528393427b45d942afb_45) / [스마트경제](http://www.dailysmart.co.kr/news/articleView.html?idxno=39145) / [머니투데이](https://news.mt.co.kr/mtview.php?no=2021012114317479030) / [한국대학신문](http://news.unn.net/news/articleView.html?idxno=503419) / [베리타스알파](http://www.veritas-a.com/news/articleView.html?idxno=354093) / [브릿지경제](http://www.viva100.com/main/view.php?key=20210121010005043) 
 
 ----------
 
