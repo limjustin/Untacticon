@@ -25,7 +25,7 @@
 
 <img src = "https://user-images.githubusercontent.com/55044278/105038713-04b3e680-5aa3-11eb-85b4-0c1b9ae0f8c4.png" height = "350px">
 
-- 제 2회 SM 경진대회 AI 부문 최우수상 수상
+- 제 2회 SM 경진대회 AI 부문 **최우수상** 수상 🏆
 
 - **관련 인터뷰**
 
